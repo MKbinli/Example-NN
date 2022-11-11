@@ -1,2 +1,2 @@
 There was no time for final date of assignment , therefore I couldn't add simple model. Hyperparameter tuning need to be done for complex model. LSTM can be added instead of wavenet.
-In my opinion, it is really hard to predict univariate and multistep problems. From the point of my view, I may have made a mistake by seperatin data to 0 parts at the begining.
+In my opinion, it is really hard to predict univariate and multistep problems.
